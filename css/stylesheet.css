@@ -6,7 +6,7 @@ body {
 
 header {
   text-align: center;
-  background-color: rgb(148, 110, 110);
+  background-color: rgb(156, 62, 74);
 }
 
 footer {
@@ -37,13 +37,13 @@ h2 {
 }
 
 #contactsText {
-  color: lawngreen;
+  color: rgb(156, 62, 74);
   font-size: large;
 }
 
 #sidebar{ 
   width: 20%;
-  background-color: skyblue;
+  background-color: rgb(142, 207, 233);
   padding: 1rem;
 }
 .navList{ 
