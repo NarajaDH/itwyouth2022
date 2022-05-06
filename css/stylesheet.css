@@ -13,6 +13,7 @@ header {
 footer {
   background-color: rgb(148, 110, 110);
   text-align: center;
+   
 }
 
 h2 {
@@ -43,17 +44,25 @@ h2 {
 }
 
 #sidebar {
+  margin-right: 60cm;
   width: 20%;
   background-color: rgb(142, 207, 233);
   padding: 1rem;
+
 }
 
 .navList {
   list-style-type: none;
   padding: 10%;
+  margin-inline: 50;
 }
 
 h4 {
   color: blue;
   font-size: larger;
+}
+
+#mainContent{ 
+  margin-left: 9cm;
+  margin-bottom: 5%;
 }
